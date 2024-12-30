@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @zidanaufal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Naufal Zaidan
+- 👀 I’m interested in Data Analyst, UI.UX, QA Testing
+- 🌱 I’m currently learning Python, Sql, Javascript
 - 📫 naufalzidan271@gmail.com
 
 <!---
